@@ -5,14 +5,22 @@
  */
 @font-face {
     font-family: 'MDL2 UI';
+    font-style: normal;
+    font-weight: 900;
     src: url('../fonts/mdl2.ttf');
 }
 
 .icon {
     display: inline-block;
-    font: normal normal normal 14px/1 'MDL2 UI';
-    font-size: inherit;
+    /* font: normal normal normal 14px/1 'MDL2 UI'; */
+    /* font-size: inherit; */
+    font-family: 'MDL2 UI';
+    font-weight: 900;
+    font-style: normal;
+    font-variant: normal;
+    line-height: 1;
     text-rendering: auto;
+    vertical-align: -0.2em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -20,7 +28,14 @@
 .icon-lg {
     font-size: 1.33333em;
     line-height: 0.75em;
-    vertical-align: -15%;
+}
+
+.icon-xs {
+    font-size: 0.75em;
+}
+  
+.icon-sm {
+    font-size: 0.875em;
 }
   
 .icon-2x {
@@ -41,6 +56,22 @@
 
 .icon-6x {
     font-size: 6em;
+}
+
+.icon-7x {
+    font-size: 7em;
+}
+
+.icon-8x {
+    font-size: 8em;
+}
+
+.icon-9x {
+    font-size: 9em;
+}
+
+.icon-10x {
+    font-size: 10em;
 }
 
 .icon-fw {
