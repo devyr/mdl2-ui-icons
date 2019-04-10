@@ -1,0 +1,29 @@
+{
+  "name": "@devyr/mdl2-ui-icons",
+  "version": "1.0.0",
+  "description": "Windows 10 UWP App Segoe MDL2 Assets for the web.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devyr/mdl2-ui-icons.git"
+  },
+  "keywords": [
+    "mdl2",
+    "mdl2-ui",
+    "mdl2-ui-icon",
+    "mdl2-ui-icons",
+    "ui-icon",
+    "ui-icons",
+    "icon",
+    "icons"
+  ],
+  "author": "devyr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/devyr/mdl2-ui-icons/issues"
+  },
+  "homepage": "https://github.com/devyr/mdl2-ui-icons#readme"
+}

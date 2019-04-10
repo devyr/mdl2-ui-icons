@@ -20,7 +20,7 @@
     font-variant: normal;
     line-height: 1;
     text-rendering: auto;
-    vertical-align: -0.2em;
+    vertical-align: -0.1em;
     -webkit-font-smoothing: antialiased;
     -moz-osx-font-smoothing: grayscale;
 }
@@ -28,6 +28,7 @@
 .icon-lg {
     font-size: 1.33333em;
     line-height: 0.75em;
+    vertical-align: -0.225em;
 }
 
 .icon-xs {
