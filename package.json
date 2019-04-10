@@ -1,6 +1,6 @@
 {
   "name": "@devyr/mdl2-ui-icons",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Windows 10 UWP App Segoe MDL2 Assets for the web.",
   "main": "index.js",
   "scripts": {
